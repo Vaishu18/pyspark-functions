@@ -1,0 +1,26 @@
+{
+  "linkedin_users": {
+    "COLUMN_LIST": {
+      "user_id": "long",
+      "name": "string",
+      "last_modified_datetime": "timestamp",
+      "address": "string",
+      "skill_set": "string"
+    }
+  },
+  "users_x_connections": {
+    "COLUMN_LIST": {
+      "user_id": "long",
+      "connection_user_id": "long",
+      "connected_on": "timestamp"
+    }
+  },
+  "users_company_details": {
+    "COLUMN_LIST":{
+      "user_id": "long",
+      "company_name": "string",
+      "start_date": "date",
+      "end_date": "date"
+    }
+  }
+}

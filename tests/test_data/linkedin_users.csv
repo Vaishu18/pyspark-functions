@@ -1,0 +1,6 @@
+UserID,Name,lastModifiedDatetime,Address,SkillSet
+1001,Steve,2016-11-20 13:45:30,Add1,Hadoop
+1005,Mark,2016-11-30 13:45:30,Add0,Java
+1007,Ron,2016-12-12 13:45:30,Add3,R
+1050,John,2017-11-10 13:45:30,Add5,Hadoop
+1010,Frank,2018-01-10 13:45:30,Add2,Scala
